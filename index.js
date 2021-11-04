@@ -39,6 +39,13 @@ const blogs = [
         date: "16th April,2021",
         likes: 250,
     },
+   { title: "The Nike Company",
+        author: "Jesse Seyram",
+        aboutAuthor: "Owner of The Nike Company",
+        description: "People across the country really like the way Nike comes up with new products. The socks,shirts, shorts, jerseys, shoes , tech fleece and tanks tops made by the Adidas Company are all comfortable",
+        date: "18th September,2021",
+        likes: 500,
+   }
 ];
 
 // Schemas to shape our code 
