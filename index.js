@@ -7,7 +7,7 @@ const port = process.env.PORT || 4501;
 const blogs = [
 
     {
-        title: "I am a your hero",
+        title: "I am your role model",
         author: "Dawuda Nuraini",
         aboutAuthor: "Teacher at Adonten SHS",
         description: "There’s also a section on their that shows guys how to make a little more cash on top of their monthly day job wage, which is vital in some cases just to keep your head above water.  A lot of new dads have the added stress of not having their wives’ or girlfriends’ wage coming in each month, due to the temporary career change in being a full time mum of a baby. ",
@@ -40,10 +40,10 @@ const blogs = [
         likes: 250,
     },
    { title: "The Nike Company",
-        author: "Jesse Seyram",
+        author: "Ben Gakpetor",
         aboutAuthor: "Owner of The Nike Company",
         description: "People across the country really like the way Nike comes up with new products. The socks,shirts, shorts, jerseys, shoes , tech fleece and tanks tops made by the Adidas Company are all comfortable",
-        date: "18th September,2021",
+        date: "18th June,2021",
         likes: 500,
    }
 ];
@@ -96,5 +96,5 @@ const server = new ApolloServer({
     introspection: true,
 });
 server.listen(port).then(({ url }) => {
-    console.log(`The server at ${url} is running!`);
+    console.log(`The server at ${url} is booting!`);
 }).catch(err => console.log(err.message));
