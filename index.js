@@ -11,8 +11,8 @@ const blogs = [
         author: "Dawuda Nuraini",
         aboutAuthor: "Teacher at Adonten SHS",
         description: "There’s also a section on their that shows guys how to make a little more cash on top of their monthly day job wage, which is vital in some cases just to keep your head above water.  A lot of new dads have the added stress of not having their wives’ or girlfriends’ wage coming in each month, due to the temporary career change in being a full time mum of a baby. ",
-        date: "22nd October,2021",
-        likes: 200
+        date: "22nd August,2021",
+        likes: 205
     },
     {
         title: "The North Face Brand",
@@ -20,16 +20,16 @@ const blogs = [
         aboutAuthor: "Owner of The North Face",
         description: "People across the country really like the way The North Face comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "1st July,2020",
-        likes: 130,
+        likes: 103,
 
     },
     {
-        title: "Puma brand",
+        title: "Puma Ambassador",
         author: "Jeph Sam Anthony",
         aboutAuthor: "Owner of Puma",
         description: "People across the country really like the way Puma comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
-        date: "11th February,2020",
-        likes: 150,
+        date: "11th February,2021",
+        likes: 160,
     },
     {
         title: "The Adidas Company",
@@ -37,14 +37,14 @@ const blogs = [
         aboutAuthor: "Owner of The Adidas Company",
         description: "People across the country really like the way Adidas comes up with new products. The socks,shirts, shorts, jerseys, shoes and tanks tops made by the Adidas Company are all comfortable",
         date: "16th April,2020",
-        likes: 320,
+        likes: 300,
     },
    { title: "The Nike Company",
-        author: "Ben Gakpetor",
+        author: "Kofi Gakpetor",
         aboutAuthor: "Owner of The Nike Company",
         description: "People across the country really like the way Nike comes up with new products. The socks,shirts, shorts, jerseys, shoes , tech fleece and tanks tops made by the Adidas Company are all comfortable",
-        date: "18th June,2021",
-        likes: 190,
+        date: "17th June,2021",
+        likes: 120,
    }
 ];
 
