@@ -9,7 +9,7 @@ const blogs = [
     {
         title: "I am your role model part 1",
         author: "Dawuda Nuraini",
-        aboutAuthor: "Teacher at Adonten SHS",
+        aboutAuthor: "Teacher at Adonten SHS and also, owner of McDonalds",
         description: "There’s also a section on their that shows guys how to make a little more cash on top of their monthly day job wage, which is vital in some cases just to keep your head above water.  A lot of new dads have the added stress of not having their wives’ or girlfriends’ wage coming in each month, due to the temporary career change in being a full time mum of a baby. ",
         date: "22nd August,2021",
         likes: 205
@@ -39,9 +39,9 @@ const blogs = [
         date: "16th April,2020",
         likes: 300,
     },
-   { title: "The Nike Company",
-        author: "Kofi Gakpetor",
-        aboutAuthor: "Owner of The Nike Company",
+   { title: "The Slanzenger Company",
+        author: "Kofi Bernard Gakpetor",
+        aboutAuthor: "Owner of The Slanzenger Company",
         description: "People across the country really like the way Nike comes up with new products. The socks,shirts, shorts, jerseys, shoes , tech fleece and tanks tops made by the Adidas Company are all comfortable",
         date: "17th June,2021",
         likes: 120,
