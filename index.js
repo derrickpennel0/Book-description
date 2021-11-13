@@ -12,7 +12,7 @@ const blogs = [
         aboutAuthor: "Teacher at Adonten SHS and also, owner of McDonalds",
         description: "There’s also a section on their that shows guys how to make a little more cash on top of their monthly day job wage, which is vital in some cases just to keep your head above water.  A lot of new dads have the added stress of not having their wives’ or girlfriends’ wage coming in each month, due to the temporary career change in being a full time mum of a baby. ",
         date: "22nd April,2021",
-        likes: 205
+        likes: 209
     },
     {
         title: "The North Face Brand In Africa",
@@ -20,7 +20,7 @@ const blogs = [
         aboutAuthor: "Owner of The North",
         description: "People across the country really like the way The North Face comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "1st July,2021",
-        likes: 103,
+        likes: 108,
 
     },
     {
@@ -28,7 +28,7 @@ const blogs = [
         author: "Jeph Sam Anthony",
         aboutAuthor: "Owner of Puma",
         description: "People across the country really like the way Puma comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
-        date: "15th February,2021",
+        date: "19th February,2021",
         likes: 260,
     },
     {
@@ -37,7 +37,7 @@ const blogs = [
         aboutAuthor: "Owner of The Adidas Company",
         description: "People across the country really like the way Adidas comes up with new products. The socks,shirts, shorts, jerseys, shoes and tanks tops made by the Adidas Company are all comfortable",
         date: "16th April,2021",
-        likes: 450,
+        likes: 400,
     },
    { title: "The Slanzenger Company",
         author: "Kwame Bernard Gakpetor",
