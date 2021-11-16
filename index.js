@@ -20,7 +20,7 @@ const blogs = [
         aboutAuthor: "Owner of The North",
         description: "People across the country really like the way The North Face comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "1st July,2021",
-        likes: 108,
+        likes: 118,
 
     },
     {
@@ -29,7 +29,7 @@ const blogs = [
         aboutAuthor: "Owner of Puma",
         description: "People across the country really like the way Puma comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "19th February,2021",
-        likes: 270,
+        likes: 250,
     },
     {
         title: "The Adidas Company in UK",
