@@ -29,7 +29,7 @@ const blogs = [
         aboutAuthor: "Owner of Puma",
         description: "People across the country really like the way Puma comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "19th February,2021",
-        likes: 250,
+        likes: 200,
     },
     {
         title: "The Adidas Company in UK",
@@ -37,14 +37,14 @@ const blogs = [
         aboutAuthor: "Owner of The Adidas Company",
         description: "People across the country really like the way Adidas comes up with new products. The socks,shirts, shorts, jerseys, shoes and tanks tops made by the Adidas Company are all comfortable",
         date: "16th April,2021",
-        likes: 360,
+        likes: 300,
     },
    { title: "The Slanzenger Company",
         author: "Kwame Bernard Gakpetor",
         aboutAuthor: "Owner of The Slanzenger Company",
         description: "People across the country really like the way Nike comes up with new products. The socks,shirts, shorts, jerseys, shoes , tech fleece and tanks tops made by the Adidas Company are all comfortable",
         date: "17th June,2021",
-        likes: 160,
+        likes: 168,
    }
 ];
 
