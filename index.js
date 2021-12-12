@@ -29,7 +29,7 @@ const blogs = [
         aboutAuthor: "Owner of Puma",
         description: "People across the country really like the way Puma comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "19th February,2021",
-        likes: 579,
+        likes: 560,
     },
     {
         title: "The Adidas Company in UK",
