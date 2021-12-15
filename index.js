@@ -20,7 +20,7 @@ const blogs = [
         aboutAuthor: "Owner of The North",
         description: "People across the country really like the way The North Face comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
         date: "1st July,2021",
-        likes: 207,
+        likes: 201,
 
     },
     {
