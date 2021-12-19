@@ -28,7 +28,7 @@ const blogs = [
         author: "Jeph Sam Anthony",
         aboutAuthor: "Owner of Puma",
         description: "People across the country really like the way Puma comes up with new products. Their socks,shirts, shorts, jerseys, shoes and tanks tops are all comfortable",
-        date: "14th February,2021",
+        date: "10th February,2021",
         likes: 410,
     },
     {
