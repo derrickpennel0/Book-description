@@ -12,7 +12,7 @@ const blogs = [
         aboutAuthor: "Teacher at Adonten SHS and also, owner of McDonalds",
         description: "There’s also a section on their that shows guys how to make a little more cash on top of their monthly day job wage, which is vital in some cases just to keep your head above water.  A lot of new dads have the added stress of not having their wives’ or girlfriends’ wage coming in each month, due to the temporary career change in being a full time mum of a baby. ",
         date: "22nd April,2021",
-        likes: 230
+        likes: 730
     },
     {
         title: "The North Face Brand In Africa",
